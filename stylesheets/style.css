@@ -1,0 +1,14 @@
+body
+{
+	background: linear-gradient(to left, #c0392b , #8e44ad);
+}
+h1
+{
+	color: white; 
+	text-align: center;
+}
+video
+{
+	height: "700px";
+	width: "500px";
+}
